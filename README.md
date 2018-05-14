@@ -48,4 +48,4 @@ The following test shows how Alice and Bob works together to swap token from mai
     truffle.cmd exec --network ganache .\test\deposit\5_Bob_mainChain_submitSecret.js 
 ```
 
-[Decentralized Cross Chain Token Exchange Based on Atomic Swap]: <https://url2>
+[Decentralized Cross Chain Token Exchange Based on Atomic Swap]: <https://github.com/shiweihavefun/atomic_swappable_token/blob/master/Decentralized%20Cross%20Chain%20Token%20Exchange%20Based%20on%20Atomic%20Swap.pdf>
