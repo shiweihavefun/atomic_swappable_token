@@ -1,0 +1,10 @@
+build/
+node_modules/.bin/errno
+node_modules/
+package-lock.json
+Seed
+CounterPartHashLockContract.json
+develop_deployResult.json
+ganache_deployResult.json
+hashPair.json
+NewHashLockContract.json
